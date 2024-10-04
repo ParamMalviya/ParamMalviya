@@ -31,27 +31,3 @@ I'm passionate about Artificial Intelligence, Web Development and Machine Learni
 ## 🏆 GitHub Achievements:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ParamMalviya&theme=radical)
 
-## 🚀 Featured Projects
-
-### Machine Learning Projects
-
-Here are a few of my significant machine learning projects:
-
-1. **[Fraud Detection in Banking](https://github.com/ParamMalviya/Fraud-Detection-Banking)**
-   - **Summary**: Using machine learning models to identify and predict fraudulent transactions.
-   - **Technologies**: Python, Scikit-Learn, Pandas, NumPy.
-
-2. **[Customer Churn Analysis](https://github.com/ParamMalviya/Customer-Churn-Prediction)**
-   - **Summary**: Analyzing customer churn patterns to predict which customers are likely to leave.
-   - **Technologies**: Python, Pandas, TensorFlow.
-
-3. **[House Price Estimation](https://github.com/ParamMalviya/House-Price-Prediction)**
-   - **Summary**: Developing a model to estimate house prices based on various features.
-   - **Technologies**: Python, Scikit-Learn, NumPy.
-
-4. **[Stock Market Price Prediction](https://github.com/ParamMalviya/Stock-Price-Forecasting)**
-   - **Summary**: Forecasting future stock prices using time series analysis and deep learning.
-   - **Technologies**: Python, Keras, Pandas.
-
-## 📫 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/parammalviya)
