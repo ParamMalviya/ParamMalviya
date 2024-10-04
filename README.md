@@ -2,13 +2,12 @@
 
 ## 🚀 About Me
 
-I'm passionate about Data Science and Machine Learning, constantly striving to expand my skills and knowledge. I enjoy solving complex problems and leveraging data to derive meaningful insights.
+I'm passionate about Artificial Intelligence, Web Development and Machine Learning, constantly striving to expand my skills and knowledge. 
 
 - 🔭 Currently working on a variety of Machine Learning projects.
-- 🌱 Learning more about Data Structures and Algorithms in Python.
-- 🌱 Diving into full-stack development and exploring cloud computing.
-- 💬 Feel free to ask me anything related to Machine Learning, Python, or Data Science.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/parammalviya)
+- 🌱 Learning more about Data Structures and Algorithms in Java.
+- 💬 Feel free to ask me anything related to Machine Learning.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/param-malviya/)
 
 ## 🛠️ Languages & Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
