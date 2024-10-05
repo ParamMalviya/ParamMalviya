@@ -31,3 +31,5 @@ I'm passionate about Artificial Intelligence, Web Development and Machine Learni
 ## 🏆 GitHub Achievements:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ParamMalviya&theme=radical)
 
+## 📫 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/param-malviya/)
