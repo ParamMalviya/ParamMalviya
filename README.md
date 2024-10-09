@@ -1,32 +1,31 @@
 <!-- Banner Section -->
-
 <p align="center">
-  <img src="https://via.placeholder.com/800x200?text=Welcome+to+My+GitHub+Profile" alt="banner" theme=radical/>
+  <img src="https://via.placeholder.com/1000x250/0D1117/FFFFFF?text=Welcome+to+My+GitHub+Profile" alt="banner" />
 </p>
 
 <!-- Title and Introduction -->
-<h1 align="center">Hi, I'm Param Malviya 👋</h1>
-<p align="center">
+<h1 align="center" style="color:#58A6FF;">Hi, I'm Param Malviya 👋</h1>
+<p align="center" style="color:#C9D1D9;">
   <em>Passionate about Machine Learning, Cloud Computing, and Software Development</em>
 </p>
 
-<!-- Social Links -->
+<!-- Social Links with Dark Theme -->
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=Twitter&logoColor=1DA1F2" alt="Twitter">
   </a>
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=Gmail&logoColor=D14836" alt="Email">
   </a>
 </p>
 
 ---
 
-<!-- About Me Section -->
-## 🌟 About Me
+<!-- About Me Section with Dark Colors -->
+## 🌟 <span style="color:#58A6FF;">About Me</span>
 - 💻 I'm a **Machine Learning Enthusiast** with experience in **Cloud Computing** and **Software Development**.
 - 🔭 I’m currently working on [Your Project](#) 
 - 🌱 I’m currently learning **Kubernetes** and **Serverless Architectures**.
@@ -35,45 +34,46 @@
 
 ---
 
-<!-- GitHub Trophies Section -->
-## 🏆 GitHub Trophies
+<!-- GitHub Trophies Section with Dark Theme -->
+## 🏆 <span style="color:#58A6FF;">GitHub Trophies</span>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ParamMalviya&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ParamMalviya&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
-<!-- GitHub Stats Section -->
-## 📊 GitHub Stats
+<!-- GitHub Stats Section with Dark Theme -->
+## 📊 <span style="color:#58A6FF;">GitHub Stats</span>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParamMalviya&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ParamMalviya&show_icons=true&theme=merko" alt="GitHub Stats" />
 </p>
 
 ---
 
-<!-- Top Languages Section -->
-## 🛠 Top Languages
+<!-- Top Languages Section with Dark Theme -->
+## 🛠 <span style="color:#58A6FF;">Top Languages</span>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParamMalviya&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParamMalviya&layout=compact&theme=merko" alt="Top Languages" />
 </p>
 
 ---
 
-<!-- Contributions Section -->
-## 🚀 Contributions
+<!-- Contributions Section with Dark Theme -->
+## 🚀 <span style="color:#58A6FF;">Contributions</span>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParamMalviya&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParamMalviya&theme=merko" alt="GitHub Streak" />
 </p>
 
 ---
 
 <!-- Contact Section -->
-## 📫 How to reach me:
+## 📫 <span style="color:#58A6FF;">How to reach me</span>:
 - **Email**: your-email@gmail.com
 - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin/)
 - **Twitter**: [Your Twitter](https://twitter.com/your-twitter)
 
-<!-- Footer -->
-<p align="center">
+<!-- Footer with Dark Theme -->
+<p align="center" style="color:#C9D1D9;">
   <em>“Exploring technology and innovation one step at a time.”</em>
 </p>
+
