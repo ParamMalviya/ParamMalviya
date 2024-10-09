@@ -1,8 +1,7 @@
 <!-- Banner Section -->
-https://github-profile-trophy.vercel.app/?username=ParamMalviya&theme=radical
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x200?text=Welcome+to+My+GitHub+Profile" alt="banner" />
+  <img src="https://via.placeholder.com/800x200?text=Welcome+to+My+GitHub+Profile" alt="banner" theme=radical/>
 </p>
 
 <!-- Title and Introduction -->
