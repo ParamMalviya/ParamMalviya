@@ -34,6 +34,14 @@
 
 ---
 
+<!-- GitHub Trophies Section -->
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ParamMalviya&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
 <p align="center">
