@@ -65,8 +65,8 @@
 
 <!-- Contact Section -->
 ## 📫 <span style="color:#58A6FF;">How to reach me</span>:
-- **Email**: your-parammalviya40@gmail.com
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/param-malviya/)
+- **Email**: parammalviya40@gmail.com
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/param-malviya/)
 
 <!-- Footer with Dark Theme -->
 <p align="center" style="color:#C9D1D9;">
