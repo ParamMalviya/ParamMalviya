@@ -14,9 +14,6 @@
   <a href="https://www.linkedin.com/in/your-linkedin/">
     <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=Twitter&logoColor=1DA1F2" alt="Twitter">
-  </a>
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=Gmail&logoColor=D14836" alt="Email">
   </a>
