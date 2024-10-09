@@ -76,4 +76,4 @@
 <p align="center" style="color:#C9D1D9;">
   <em>“Exploring technology and innovation one step at a time.”</em>
 </p>
-[![](https://visitcount.itsvg.in/api?id=ParamMalviya&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ParamMalviya&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
