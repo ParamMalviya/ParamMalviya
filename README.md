@@ -4,10 +4,7 @@
 </p>
 
 <!-- Title and Introduction -->
-<h1 align="Left" style="color:#58A6FF;">Hi, I'm Param Malviya 👋</h1>
-<p align="center" style="color:#C9D1D9;">
-</p>
-
+## Hello, I'm Param Malviya 👋
 <!-- About Me Section with Dark Colors -->
 ## 🚀 About Me
 I'm passionate about Web Development, Artificial Intelligence, and Machine Learning, constantly striving to enhance my skills and knowledge.
