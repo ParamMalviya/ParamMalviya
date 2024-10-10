@@ -7,17 +7,6 @@
 <h1 align="Left" style="color:#58A6FF;">Hi, I'm Param Malviya 👋</h1>
 <p align="center" style="color:#C9D1D9;">
 </p>
-
-<!-- Social Links with Dark Theme -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2" alt="LinkedIn">
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=Gmail&logoColor=D14836" alt="Email">
-  </a>
-</p>
-
 <!-- About Me Section with Dark Colors -->
 ## 🌟 <span style="color:#58A6FF;">About Me</span>
 I'm passionate about Web Development, Artificial Intelligence, and Machine Learning, constantly striving to enhance my skills and knowledge.
