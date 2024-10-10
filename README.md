@@ -7,6 +7,7 @@
 <h1 align="Left" style="color:#58A6FF;">Hi, I'm Param Malviya 👋</h1>
 <p align="center" style="color:#C9D1D9;">
 </p>
+
 <!-- About Me Section with Dark Colors -->
 ## 🌟 About Me
 I'm passionate about Web Development, Artificial Intelligence, and Machine Learning, constantly striving to enhance my skills and knowledge.
@@ -30,15 +31,12 @@ I'm passionate about Web Development, Artificial Intelligence, and Machine Learn
   <img src="https://github-profile-trophy.vercel.app/?username=ParamMalviya&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
-
-
 <!-- GitHub Stats Section with Dark Theme -->
+
 ## 📊 <span style="color:#58A6FF;">GitHub Stats</span>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ParamMalviya&show_icons=true&theme=merko" alt="GitHub Stats" />
 </p>
-
----
 
 <!-- Top Languages Section with Dark Theme -->
 ## 🛠 <span style="color:#58A6FF;">Top Languages</span>
@@ -46,15 +44,11 @@ I'm passionate about Web Development, Artificial Intelligence, and Machine Learn
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParamMalviya&layout=compact&theme=merko" alt="Top Languages" />
 </p>
 
----
-
 <!-- Contributions Section with Dark Theme -->
 ## 🚀 <span style="color:#58A6FF;">Contributions</span>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParamMalviya&theme=merko" alt="GitHub Streak" />
 </p>
-
----
 
 <!-- Contact Section -->
 ## 📫 <span style="color:#58A6FF;">How to reach me</span>:
