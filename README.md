@@ -6,7 +6,7 @@
 <!-- Title and Introduction -->
 <h1 align="center" style="color:#58A6FF;">Hi, I'm Param Malviya 👋</h1>
 <p align="center" style="color:#C9D1D9;">
-  <em>Passionate about Machine Learning, Cloud Computing, and Software Development</em>
+  <em>Passionate about Machine Learning, Airtificial Intelligence, and Web Development</em>
 </p>
 
 <!-- Social Links with Dark Theme -->
@@ -24,11 +24,9 @@
 <!-- About Me Section with Dark Colors -->
 ## 🌟 <span style="color:#58A6FF;">About Me</span>
 I'm passionate about Web Development, Artificial Intelligence, and Machine Learning, constantly striving to enhance my skills and knowledge.
-- 🔭 I’m currently working on [Your Project](#) 
-- 🌱 I’m currently learning **Kubernetes** and **Serverless Architectures**.
-- 👯 I’m looking to collaborate on **Open-Source Projects** related to AI.
-- 💬 Ask me about anything tech-related, especially **ML** and **Cloud Solutions**.
 
+- 🔭 Currently working on several innovative Machine Learning and Web Development projects. 
+- 🌱 Learning more about Data Structures and Algorithms in Java.
 ---
 
 <!-- GitHub Trophies Section with Dark Theme -->
