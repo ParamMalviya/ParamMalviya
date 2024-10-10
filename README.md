@@ -27,6 +27,7 @@ I'm passionate about Web Development, Artificial Intelligence, and Machine Learn
 
 - 🔭 Currently working on several innovative Machine Learning and Web Development projects. 
 - 🌱 Learning more about Data Structures and Algorithms in Java.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/param-malviya)
 ---
 
 <!-- GitHub Trophies Section with Dark Theme -->
