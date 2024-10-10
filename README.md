@@ -19,8 +19,6 @@
   </a>
 </p>
 
----
-
 <!-- About Me Section with Dark Colors -->
 ## 🌟 <span style="color:#58A6FF;">About Me</span>
 I'm passionate about Web Development, Artificial Intelligence, and Machine Learning, constantly striving to enhance my skills and knowledge.
