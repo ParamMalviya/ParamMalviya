@@ -28,15 +28,23 @@ I'm passionate about Web Development, Artificial Intelligence, and Machine Learn
 - 🔭 Currently working on several innovative Machine Learning and Web Development projects. 
 - 🌱 Learning more about Data Structures and Algorithms in Java.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/param-malviya)
----
+
+## 🛠️ Languages & Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <!-- GitHub Trophies Section with Dark Theme -->
+
 ## 🏆 <span style="color:#58A6FF;">GitHub Trophies</span>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ParamMalviya&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
----
+
 
 <!-- GitHub Stats Section with Dark Theme -->
 ## 📊 <span style="color:#58A6FF;">GitHub Stats</span>
