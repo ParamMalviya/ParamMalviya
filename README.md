@@ -8,7 +8,7 @@
 <p align="center" style="color:#C9D1D9;">
 </p>
 <!-- About Me Section with Dark Colors -->
-## 🌟 <span style="color:#58A6FF;">About Me</span>
+## 🌟 About Me
 I'm passionate about Web Development, Artificial Intelligence, and Machine Learning, constantly striving to enhance my skills and knowledge.
 
 - 🔭 Currently working on several innovative Machine Learning and Web Development projects. 
