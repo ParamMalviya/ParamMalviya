@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x200?text=Welcome+to+My+GitHub+Profile" alt="banner" />
+  <img src="https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg" alt="banner" />
 </p>
 
 <!-- Title and Introduction -->
