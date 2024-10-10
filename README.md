@@ -31,19 +31,19 @@ I'm passionate about Web Development, Artificial Intelligence, and Machine Learn
 
 <!-- GitHub Stats Section with Dark Theme -->
 
-## 📊 <span style="color:#58A6FF;">GitHub Stats</span>
+## 📈 <span style="color:#58A6FF;">GitHub Stats</span>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ParamMalviya&show_icons=true&theme=merko" alt="GitHub Stats" />
 </p>
 
 <!-- Top Languages Section with Dark Theme -->
-## 🛠 <span style="color:#58A6FF;">Top Languages</span>
+## 💻 <span style="color:#58A6FF;">Top Languages</span>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParamMalviya&layout=compact&theme=merko" alt="Top Languages" />
 </p>
 
 <!-- Contributions Section with Dark Theme -->
-## 🚀 <span style="color:#58A6FF;">Contributions</span>
+## 📈 <span style="color:#58A6FF;">Contributions</span>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParamMalviya&theme=merko" alt="GitHub Streak" />
 </p>
