@@ -55,10 +55,6 @@ I'm passionate about Web Development, Artificial Intelligence, and Machine Learn
 - **Email**: parammalviya40@gmail.com
 - **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/param-malviya/)
 
-<!-- Footer with Dark Theme -->
-<p align="center" style="color:#C9D1D9;">
-  <em>“Exploring technology and innovation one step at a time.”</em>
-</p>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=ParamMalviya&label=Profile%20Views&color=3&icon=5&pretty=false" />
 </a>
