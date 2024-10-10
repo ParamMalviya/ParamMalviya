@@ -23,7 +23,7 @@
 
 <!-- About Me Section with Dark Colors -->
 ## 🌟 <span style="color:#58A6FF;">About Me</span>
-- 💻 I'm a **Machine Learning Enthusiast** with experience in **Cloud Computing** and **Software Development**.
+I'm passionate about Web Development, Artificial Intelligence, and Machine Learning, constantly striving to enhance my skills and knowledge.
 - 🔭 I’m currently working on [Your Project](#) 
 - 🌱 I’m currently learning **Kubernetes** and **Serverless Architectures**.
 - 👯 I’m looking to collaborate on **Open-Source Projects** related to AI.
