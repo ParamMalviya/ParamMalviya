@@ -21,23 +21,23 @@ I'm passionate about Web Development, Artificial Intelligence, and Machine Learn
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🏆 GitHub Achievements:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ParamMalviya&theme=radical)
-
 ## 💻 <span style="color:#58A6FF;">Top Languages</span>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParamMalviya&layout=compact&theme=merko" alt="Top Languages" />
 </p>
 
 ## 📈 <span style="color:#58A6FF;">GitHub Stats</span>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ParamMalviya&show_icons=true&theme=merko" alt="GitHub Stats" />
 </p>
 
 ## 📈 <span style="color:#58A6FF;">GitHub Contributions</span>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParamMalviya&theme=merko" alt="GitHub Streak" />
 </p>
+
+## 🏆 GitHub Achievements:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ParamMalviya&theme=radical)
 
 ## 📫 <span style="color:#58A6FF;">How to reach me</span>:
 - **Email**: parammalviya40@gmail.com
