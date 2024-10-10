@@ -4,9 +4,8 @@
 </p>
 
 <!-- Title and Introduction -->
-<h1 align="center" style="color:#58A6FF;">Hi, I'm Param Malviya 👋</h1>
+<h1 align="Left" style="color:#58A6FF;">Hi, I'm Param Malviya 👋</h1>
 <p align="center" style="color:#C9D1D9;">
-  <em>Passionate about Machine Learning, Airtificial Intelligence, and Web Development</em>
 </p>
 
 <!-- Social Links with Dark Theme -->
