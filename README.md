@@ -26,11 +26,8 @@ I'm passionate about Web Development, Artificial Intelligence, and Machine Learn
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!-- GitHub Trophies Section with Dark Theme -->
-
-## 🏆 <span style="color:#58A6FF;">GitHub Trophies</span>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ParamMalviya&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
+## 🏆 GitHub Achievements:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ParamMalviya&theme=radical)
 
 <!-- GitHub Stats Section with Dark Theme -->
 
