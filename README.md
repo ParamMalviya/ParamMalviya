@@ -22,8 +22,8 @@ I'm passionate about Web Development, Artificial Intelligence, and Machine Learn
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## 📈 GitHub Contributions
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ParamMalviya&hide_border=true&background=DEG,ea6161,ffc64d,fffc4d,52fa5a,4dfcff,c64dff&stroke=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF)
+## 📈 GitHub Contributions:
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ParamMalviya&theme=radical&hide_border=true&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a)
 
 ## 💻 <span style="color:#58A6FF;">Top Languages and GitHub Stats</span>
 <a><img height="120px" src="https://github-readme-stats.vercel.app/api?username=ParamMalviya&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/><!-- wi*quL3fcV --><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParamMalviya&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/></a>
