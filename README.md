@@ -23,7 +23,7 @@ I'm passionate about Web Development, Artificial Intelligence, and Machine Learn
 </div>
 
 ## 📈 GitHub Contributions:
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ParamMalviya&theme=radical&hide_border=true&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ParamMalviya&theme=dark&hide_border=true&background=45%2CEA6161%2C52FA5A" alt="GitHub Streak" /></a>
 
 ## 💻 <span style="color:#58A6FF;">Top Languages and GitHub Stats</span>
 <a><img height="120px" src="https://github-readme-stats.vercel.app/api?username=ParamMalviya&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/><!-- wi*quL3fcV --><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParamMalviya&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/></a>
