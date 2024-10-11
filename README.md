@@ -1,7 +1,8 @@
-![Animated Background](https://github.com/ParamMalviya/ParamMalviya/raw/main/Motion_Background_Plexus_Moving_Animated_Lines_HD_Backdrop.gif)
+<p align="center">
+    <img src="https://github.com/ParamMalviya/ParamMalviya/raw/main/Motion_Background_Plexus_Moving_Animated_Lines_HD_Backdrop.gif" alt="Animated Background" style="width: 100%; height: auto;">
+</p>
 
-
-## Hello, I'm Param Malviya 👋
+## Hi, nice to meet you 👋
 
 ## 🚀 About Me
 
