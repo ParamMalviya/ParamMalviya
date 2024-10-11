@@ -1,7 +1,4 @@
-<p align="center">
-    <img src="https://github.com/ParamMalviya/ParamMalviya/raw/main/Motion_Background_Plexus_Moving_Animated_Lines_HD_Backdrop.gif" alt="Animated Background" style="width: 100%; height: auto;">
-</p>
-
+<iframe src="https://giphy.com/embed/yidUzHwwoFalzhyKXu" width="480" height="302" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hi-waving-nightmare-before-christmas-yidUzHwwoFalzhyKXu">via GIPHY</a></p>
 ## Hi, nice to meet you 👋
 
 ## 🚀 About Me
