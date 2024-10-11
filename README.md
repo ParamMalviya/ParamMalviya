@@ -30,3 +30,4 @@ I'm passionate about Web Development, Artificial Intelligence, and Machine Learn
 
 ## 🏆 GitHub Achievements:
 <a href="https://github.com/ParamMalviya"><img height="120px" src="https://github-profile-trophy.vercel.app/?username=ParamMalviya&theme=gruvbox&no-frame=true&row=1&column=6&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&text_color=000"/></a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParamMalviya&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=ffffff&icon_color=ffffff&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a)
