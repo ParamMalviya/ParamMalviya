@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=C:\Users\param\Downloads\Motion_Background_Plexus_Moving_Animated_Lines_HD_Backdrop.gif alt="banner" />
+  <img src=https://github.com/ParamMalviya/ParamMalviya/blob/main/Motion_Background_Plexus_Moving_Animated_Lines_HD_Backdrop.gif  alt="banner" />
 </p>
 
 ## Hello, I'm Param Malviya 👋
