@@ -7,7 +7,7 @@
 
 # Hi, nice to meet you 👋
 
-## 🚀 About Me
+## 🚀 About Me:
 
 I'm passionate about Web Development, Artificial Intelligence, and Machine Learning, constantly striving to enhance my skills and knowledge.
 
