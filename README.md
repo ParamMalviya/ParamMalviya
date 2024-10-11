@@ -22,7 +22,7 @@ I'm passionate about Web Development, Artificial Intelligence, and Machine Learn
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## 💻 <span style="color:#58A6FF;">Top Languages</span>
+<!-- ## 💻 <span style="color:#58A6FF;">Top Languages</span>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParamMalviya&layout=compact&theme=merko" alt="Top Languages" />
 </p>
@@ -35,7 +35,8 @@ I'm passionate about Web Development, Artificial Intelligence, and Machine Learn
 ## 📈 <span style="color:#58A6FF;">GitHub Contributions</span>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParamMalviya&theme=merko" alt="GitHub Streak" />
-</p>
+</p> -->
+## 💻 <span style="color:#58A6FF;">Top Languages and GutHub Stats</span>
 
 ## 🏆 GitHub Achievements:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ParamMalviya&theme=radical)
