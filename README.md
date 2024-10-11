@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/yidUzHwwoFalzhyKXu/giphy.gif" alt="Waving GIF" style="width: 100%; height: auto;">
 </p>
 <p align="center">
-    <a href="https://giphy.com/gifs/hi-waving-nightmare-before-christmas-yidUzHwwoFalzhyKXu">via GIPHY</a>
+    <a href="https://giphy.com/gifs/hi-waving-nightmare-before-christmas-yidUzHwwoFalzhyKXu"></a>
 </p>
 
 ## Hi, nice to meet you 👋
