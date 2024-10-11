@@ -49,3 +49,5 @@ I'm passionate about Web Development, Artificial Intelligence, and Machine Learn
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=ParamMalviya&label=Profile%20Views&color=3&icon=5&pretty=false" />
 </a>
+<a><img height="120px" src="https://github-profile-trophy.vercel.app/?username=ParamMalviya&theme=gruvbox&no-frame=true&row=1&column=6&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&text_color=000"/></a>
+<a><img height="120px" src="https://github-profile-trophy.vercel.app/?username=ParamMalviya&theme=gruvbox&no-frame=true&row=1&column=6&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&text_color=000"/></a>
