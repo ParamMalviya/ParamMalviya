@@ -22,7 +22,7 @@ I'm passionate about Web Development, Artificial Intelligence, and Machine Learn
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-# 📈 GitHub Contributions:
+## 📈 GitHub Contributions
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ParamMalviya&hide_border=true&background=DEG,ea6161,ffc64d,fffc4d,52fa5a,4dfcff,c64dff&stroke=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF)
 
 ## 💻 <span style="color:#58A6FF;">Top Languages and GitHub Stats</span>
